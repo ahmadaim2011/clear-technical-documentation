@@ -13,6 +13,10 @@ This project presents six practical methods to improve clarity and usability in 
 
 ---
 
+preview.png
+
+---
+
 ## Methods Covered
 
 1. **Start with purpose**  
