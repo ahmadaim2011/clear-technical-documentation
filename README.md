@@ -47,7 +47,8 @@ preview.png
 
 ## Tools Used
 
-- Canva (design + content drafting)
+- Canva (design)
+- Joplin Notes (content drafting)
 - GitHub (publishing)
 
 ---
